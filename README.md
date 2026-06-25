@@ -14,7 +14,7 @@ The result:
 - missing non-functional requirements
 - poor AI-generated implementations
 
-ReqForge addresses this gap by transforming unstructured stakeholder
+The Agent addresses this gap by transforming unstructured stakeholder
 knowledge into structured, explainable and AI-ready specifications.
 
 
