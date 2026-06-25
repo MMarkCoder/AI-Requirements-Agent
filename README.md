@@ -1,6 +1,4 @@
-# ReqForge Projekt Documentation
-
-## Governance-first AI Requirements Engineering Agent
+# Governance-first AI Requirements Engineering Agent
 
 ### Problem
 
